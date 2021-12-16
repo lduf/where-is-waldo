@@ -131,3 +131,6 @@ dmypy.json
 
 #image dataset
 dataset/*
+
+#models
+models/*
